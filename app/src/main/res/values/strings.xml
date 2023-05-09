@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Simple Click</string>
+    <string name ="placeholder">Enter something</string>
+    <string name="placeholder2">Display what user enters</string>
+    <string name="radioButtonFemale">Female</string>
+    <string name="radioButtonMale">Male</string>
+
+</resources>
